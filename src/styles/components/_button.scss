@@ -1,0 +1,44 @@
+.button {
+    background:$near-black;
+    border:none;
+    border-radius:5px;
+    color:white;
+    display:inline-block;
+    font-size: $font-size-large;
+    font-weight: 300;
+    line-height: 1;
+    padding: $s-size;
+    text-decoration: none;
+}
+
+button {
+    cursor:pointer;
+}
+
+button:disabled {
+    cursor:default;
+}
+
+.button--link {
+    background:none;
+    border-radius: 0;
+    font-family:'Roboto';
+    font-style: normal;
+    padding: $s-size;
+}
+
+.selected {
+    color:$gray;
+//    border-bottom: 1px solid white;
+//    padding: $s-size;
+}
+
+.button--secondary{
+    background:#888;
+}
+
+.button--nav {
+    background:#888;
+    margin:0  0 0 $m-size;
+}
+

@@ -1,0 +1,23 @@
+//rem
+
+* {
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+
+body {
+    color:$dark-gray;
+    font-family:'Roboto';
+    font-size: $m-size;
+    line-height: 1.6;
+}
+
+.is-active {
+    font-weight: bold;
+}
+
+.red {
+    color:$main-red;
+}

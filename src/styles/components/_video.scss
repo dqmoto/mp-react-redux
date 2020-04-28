@@ -1,0 +1,15 @@
+.video {
+
+}
+
+.video__thumb {
+    height:auto;
+    // margin:0;
+    width:200px;
+
+    @media(min-width:$desktop-breakpoint) {
+        height:auto;
+        padding-left:0;
+        width:300px;
+    }
+}

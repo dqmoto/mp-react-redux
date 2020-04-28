@@ -1,0 +1,48 @@
+.header {
+    background: $near-black;
+    font-family: 'Roboto Condensed';
+}
+
+.header__content {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+   
+    padding:$s-size 0;
+}
+
+.header__title {
+    color:white;
+    text-decoration: none;
+    h1 {
+        margin:0;
+    }
+}
+
+.header--bold {
+   display: inline-block;
+    font-weight: 700;
+}
+
+.header--thin {
+    font-weight: 300;
+}
+
+.logo-holder {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    align-items: center;
+    display:flex;
+    height:60vh;
+    justify-content: center;
+    width:60vw;
+}
+
+.logo__image {
+    height: 8rem;
+    width: 8rem;
+}
