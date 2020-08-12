@@ -20,10 +20,10 @@ Features
 - Watch YouTube how-to videos to assist you if you are a DIYer
 - Available restore if you add opt-in to add your data to the cloud, in case of lost or new device
 
-All data is stored on the cloud, except for photos, those are locally stored in your devce under a MotoPreserve Album
+All data is stored on the cloud, except for photos, those are locally stored in your device under a MotoPreserve Album
 ***THIS FUNTIIONALITY IS NOT AVAILABLE ON THE WEB APP
 
-Google Log-in
+Google Log-in type
 Firebase Database
 
 Created using
